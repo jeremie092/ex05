@@ -1,0 +1,26 @@
+ex05
+
+?/20
+
+README :
+votre nom?
+
+ex05_q01 :
+strings-master ??
+fonctions non définies :
+      print(toChars(sentence));
+      print(toletters(sentence));
+erreur
+
+ex05_q02 :
+erreur
+
+ex05_q03 :
+erreur
+
+ex05_q05 :
+erreur
+
+
+
+
